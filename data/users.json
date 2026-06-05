@@ -1,0 +1,30 @@
+[
+    {
+        "id": 101,
+        "name": "Aryan",
+        "purchase_history": [
+            1,
+            7
+        ],
+        "search_history": [
+            "Electronics",
+            "Electronics",
+            "Accessories"
+        ],
+        "cart_items": [
+            8
+        ],
+        "ratings": {
+            "1": 5,
+            "7": 4
+        }
+    },
+    {
+        "id": 2,
+        "name": "Rahul",
+        "purchase_history": [],
+        "search_history": [],
+        "cart_items": [],
+        "ratings": {}
+    }
+]

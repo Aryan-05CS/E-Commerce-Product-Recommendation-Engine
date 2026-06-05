@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15",
+        "category": "Electronics",
+        "rating": 4.8,
+        "price": 79999
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S24",
+        "category": "Electronics",
+        "rating": 4.7,
+        "price": 74999
+    },
+    {
+        "id": 3,
+        "name": "MacBook Air M3",
+        "category": "Electronics",
+        "rating": 4.9,
+        "price": 119999
+    },
+    {
+        "id": 4,
+        "name": "Nike Running Shoes",
+        "category": "Fashion",
+        "rating": 4.6,
+        "price": 4999
+    },
+    {
+        "id": 5,
+        "name": "Adidas Sneakers",
+        "category": "Fashion",
+        "rating": 4.5,
+        "price": 4599
+    },
+    {
+        "id": 6,
+        "name": "Puma T-Shirt",
+        "category": "Fashion",
+        "rating": 4.3,
+        "price": 1499
+    },
+    {
+        "id": 7,
+        "name": "Sony Headphones",
+        "category": "Electronics",
+        "rating": 4.4,
+        "price": 2999
+    },
+    {
+        "id": 8,
+        "name": "Smart Watch",
+        "category": "Electronics",
+        "rating": 4.7,
+        "price": 5999
+    },
+    {
+        "id": 9,
+        "name": "Laptop Backpack",
+        "category": "Accessories",
+        "rating": 4.2,
+        "price": 1299
+    },
+    {
+        "id": 10,
+        "name": "Laptop Stand",
+        "category": "Accessories",
+        "rating": 4.6,
+        "price": 999
+    },
+    {
+        "id": 11,
+        "name": "Gaming Mouse",
+        "category": "Gaming",
+        "rating": 4.8,
+        "price": 1999.0
+    }
+]
